@@ -10,11 +10,11 @@ The thesis is accessible at:
 Bibtex:  
 #TODO  
 
-#Code files
+# Code files
 
 This repository references two submodules, both being implementations of web applications using a midlayer to separate application logic from the user interface. This alleviates several issues that arise from tight coupling, 
 
-#RenderCoreEditor
+# RenderCoreEditor
 RenderCore is a versatile rendering framework. As part of the thesis, a simple scene editor was developed for it, using the midlayer approach.
-#VPT-WebGPU
+# VPT-WebGPU
 VPT is a volumetric path tracing framework targeted towards interactive real-time data exploration, intended for web use. An updated UI, using the Tweakpane library, was developed for it.
