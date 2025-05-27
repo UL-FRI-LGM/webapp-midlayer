@@ -1,6 +1,7 @@
 [submodule "VPT-WebGPU"]
 	path = VPT-WebGPU
 	url = https://github.com/UL-FRI-LGM/VPT-WebGPU
+	branch = tweakpane-reskin
 [submodule "RendercoreEditor"]
 	path = RendercoreEditor
 	url = https://github.com/Previts/RendercoreEditor
