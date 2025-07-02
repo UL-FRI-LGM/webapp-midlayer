@@ -3,7 +3,7 @@
 A repository containing code developed as part of the Bachelor thesis at the University of Ljubljana, Faculty of Computer and Information Science by Peter Šterman.
 
 ## Abstract
-#TODO
+As part of this thesis, we developed a middleware layer that enables the connection of the RenderCore and VPT applications with a selected user interface library. Based on this solution, we redeveloped the user interfaces of both applications. The middleware allows for easy replacement of the user interface library without modifying the core application logic. During the development process, we evaluated the impact of the middleware on system performance by measuring responsiveness. We found that the introduction of the middleware had no significant impact on performance, while improving code clarity and simplifying the development of the user interface.
 
 The thesis is accessible at:  
 #TODO  
